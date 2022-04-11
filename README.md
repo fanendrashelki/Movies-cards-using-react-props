@@ -1,4 +1,4 @@
-#Movies cards using props
+# Movies cards using props
 ![screencapture-localhost-3000-2022-04-11-14_12_31](https://user-images.githubusercontent.com/58651025/162703335-b1970b15-c9b7-4b6e-90eb-6c94228adb68.png)
 
 # Getting Started with Create React App
